@@ -1,0 +1,7 @@
+aaa, 1
+aab, 2
+aac, 3
+aba, 3
+abb, 4
+abc, 5
+aca, 6
